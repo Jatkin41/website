@@ -7,10 +7,14 @@
     font-size: 55px;
     font-family: 'Courier New';
   }
-
-p {
+.landing {
+    padding: 5px;
+    text-align: center;
+    font-family: 'Courier New';
+}
+.text {
     font-size: 15px;
-    font-family: Arial
+    font-family: Arial;
 }
 
 

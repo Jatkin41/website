@@ -1,4 +1,5 @@
 # website
-playing around with html, css, bootstrap
+Website created for portfolio purposes.
+As such this is a solo project. 
 
-website created for portfolio purposes
+This project currently uses HTML, CSS, and Bootstrap.
