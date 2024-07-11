@@ -1,0 +1,40 @@
+.body {
+    background-color: #e6ffe6;
+}
+.heading {
+    padding: 7px 16px;
+    color: antiquewhite;
+    font-size: 55px;
+    font-family: 'Courier New';
+  }
+.landing {
+    padding: 5px;
+    text-align: center;
+    font-family: 'Courier New';
+}
+.text {
+    font-size: 15px;
+    font-family: Arial;
+}
+
+
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+  
+.topnav a {
+    float: left;
+    color: antiquewhite;
+    text-align: center;
+    padding: 7px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
