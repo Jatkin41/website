@@ -1,8 +1,9 @@
 # My (Very WIP) Website
 Website created for fun.
 
-This project currently uses HTML, CSS, and Bootstrap.
+This project currently uses HTML, CSS, and JavaScript.
 
+It is viewable @ www.jdatkinson.dev
 
 **TO DO**
 - Photography page
