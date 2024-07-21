@@ -13,8 +13,9 @@
     font-family: 'Courier New';
 }
 .text {
-    font-size: 15px;
-    font-family: Arial;
+    font-size: 14px;
+    font-family: 'Arial';
+    text-align: center;
 }
 
 
@@ -40,7 +41,14 @@
 
 .footer {
     overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     background-color: #333;
     color: antiquewhite;
     padding: 7px 16px;
+}
+
+.top {
+    float: right;
 }
