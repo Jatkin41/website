@@ -1,7 +1,7 @@
 class headerTemplate extends HTMLElement {
     connectedCallback() {
         this.innerHTML = `
-        <div style="background-color: #a76565;"> <!--heading div-->
+        <div style="background-color: #a76565;" id=Top;> <!--heading div-->
             <div>
                 <h1 class="heading">website that i made</h1>
             </div>
@@ -22,9 +22,13 @@ class footerTemplate extends HTMLElement {
         this.innerHTML = `
         <div class="footer">
             <div>
+                <div>
                     &copy; Joshua Atkinson 2024 &#8277; <a href="https://github.com/Jatkin41/website">Source Code</a>
+                    <div class="top">
+                        <a href="#Top">Top of Page</a>
+                    </div>
+                </div>
             </div>
-
         </div>
         `
     }
