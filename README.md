@@ -1,13 +1,15 @@
 # My (Very WIP) Website
 Website created for fun.
 
-This project currently uses HTML, CSS, and Bootstrap.
+This project currently uses HTML, CSS, and a sprinkle of JavaScript.
 
 
 **TO DO**
 - Organise files into appropriate folders
-- Photography page
-    - Convert other.html to photography.html
-        - Add gallery sections for different locations/dates
-    - Create folder to store images 
+- Finish populating pages
+    - Home
+    - About
+    - Photography page
+        - Add gallery sections for different locations/dates 
+    - Other (if page needed)
 - Light/Dark mode
