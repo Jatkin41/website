@@ -24,7 +24,7 @@ class footerTemplate extends HTMLElement {
         <div class="footer">
             <div>
                 <div>
-                    &copy; Joshua Atkinson 2024 &#8277; <a href="https://github.com/Jatkin41/Website">Source Code</a>
+                    &copy; Joshua Atkinson 2025 &#8277; <a href="https://github.com/Jatkin41/website">Source Code</a>
                     <div class="top">
                         <a href="#Top">Top of Page</a>
                     </div>
