@@ -9,6 +9,7 @@ class headerTemplate extends HTMLElement {
                 <div class="topnav">
                     <div><a href="home.html">Home</a></div>
                     <div><a href="about.html">About Me</a></div>
+                    <div><a href="photography.html">Photography</a></div>
                     <div><a href="other.html">Other</a></div>
                 </div>
             </div>
@@ -23,7 +24,7 @@ class footerTemplate extends HTMLElement {
         <div class="footer">
             <div>
                 <div>
-                    &copy; Joshua Atkinson 2024 &#8277; <a href="https://github.com/Jatkin41/website">Source Code</a>
+                    &copy; Joshua Atkinson 2024 &#8277; <a href="https://github.com/Jatkin41/Website">Source Code</a>
                     <div class="top">
                         <a href="#Top">Top of Page</a>
                     </div>
